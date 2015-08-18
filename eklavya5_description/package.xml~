@@ -1,0 +1,8 @@
+<package>
+  <name>chasisss</name>
+  <version>0.0.1</version>
+  <description brief="chasissssss welded.SLDASM">chasissssss welded.SLDASM</description>
+  <depend package="gazebo" />
+  <author>me</author>
+  <license>BSD</license>
+</package>
