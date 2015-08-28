@@ -74,7 +74,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://eklavya_description/meshes/base_link.stl"/>
+        <mesh filename="package://eklavya5_description/meshes/base_link.stl"/>
       </geometry>
       <material name="Yellow"/>
     </visual>
@@ -114,7 +114,7 @@
     <visual>
       <origin rpy="-3.14159265359 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://eklavya_description/meshes/wheel.stl"/>
+        <mesh filename="package://eklavya5_description/meshes/wheel.stl"/>
       </geometry>
       <material name="DarkGray"/>
     </visual>
@@ -161,7 +161,7 @@
     <visual>
       <origin rpy="-3.14159265359 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://eklavya_description/meshes/wheel.stl"/>
+        <mesh filename="package://eklavya5_description/meshes/wheel.stl"/>
       </geometry>
       <material name="DarkGray"/>
     </visual>
@@ -208,7 +208,7 @@
     <visual>
       <origin rpy="-3.14159265359 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://eklavya_description/meshes/wheel.stl"/>
+        <mesh filename="package://eklavya5_description/meshes/wheel.stl"/>
       </geometry>
       <material name="DarkGray"/>
     </visual>
@@ -255,7 +255,7 @@
     <visual>
       <origin rpy="-3.14159265359 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://eklavya_description/meshes/wheel.stl"/>
+        <mesh filename="package://eklavya5_description/meshes/wheel.stl"/>
       </geometry>
       <material name="DarkGray"/>
     </visual>
@@ -303,7 +303,7 @@
     <visual>
       <origin rpy="0 0 0" xyz="0 0 0"/>
       <geometry>
-        <mesh filename="package://eklavya_description/meshes/user_rail.stl"/>
+        <mesh filename="package://eklavya5_description/meshes/user_rail.stl"/>
       </geometry>
       <material name="DarkGray"/>
     </visual>

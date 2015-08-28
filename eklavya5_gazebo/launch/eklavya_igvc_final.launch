@@ -13,6 +13,11 @@
     <arg name="headless" value="false"/>
     <arg name="debug" value="false"/>
   </include>
+
+
+    <include file="$(find eklavya5_gazebo)/launch/robot.launch" >
+  </include>
+
   <!--
   <include file="$(find eklavya5_gazebo)/launch/base.urdf.gazebo.launch">
     <arg name="gps_enabled" value="true"/>
